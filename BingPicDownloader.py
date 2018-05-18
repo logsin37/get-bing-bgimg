@@ -1,7 +1,7 @@
 # coding:utf8
-# 环境要求:python2.7x,PIL,pywin32
-# 备注:只在win7系统试过正常
-# 创建时间:2015-1
+# 环境要求: python3.6.5+ , pillow, pywin32
+# 备注: 已测试win7/win10系统正常
+# 创建时间:2017-05-18
 
 from PIL import Image
 import win32api

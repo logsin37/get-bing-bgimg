@@ -1,2 +1,4 @@
-pic/*
+/pic/*
 *.bat
+
+!/pic/README.md
